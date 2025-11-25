@@ -8,7 +8,7 @@ I also develop **AI-integrated projects** and create cross-platform mobile apps 
 
 ## 🚀 Tech Stack
 
-**Frontend:** React, Next.js, HTML, CSS, Bootstrap, Tailwind  
+**Frontend:** TypeScript, React, Next.js, HTML, CSS, Bootstrap, Tailwind  
 **Mobile:** Flutter & Dart  
 **Backend:** Node.js, Express, MongoDB, MySQL, PHP  
 **AI:** OpenAI API, Embeddings, Chat Assistants  
