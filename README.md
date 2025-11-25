@@ -25,6 +25,13 @@ I also develop **AI-integrated projects** and create cross-platform mobile apps 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![AI](https://img.shields.io/badge/AI%20Developer-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Powered-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0A84FF?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge&logo=elastic&logoColor=white)
+
+
 
 ## 📫 Contact
 Portfolio: https://my-portfolio-eight-chi-10.vercel.app/ </br>
