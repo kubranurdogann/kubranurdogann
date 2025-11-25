@@ -28,4 +28,4 @@ I also develop **AI-integrated projects** and create cross-platform mobile apps 
 
 ## 📫 Contact
 Portfolio: https://my-portfolio-eight-chi-10.vercel.app/ </br>
-LinkedIn: [(eklemek istersen yazayım)](https://www.linkedin.com/in/kubranur-d-658698207/)
+LinkedIn: https://www.linkedin.com/in/kubranur-d-658698207/
